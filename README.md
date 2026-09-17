@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040138
+# Name: JADEN SAMUEL ABRAHAM
+# Date: 17/9/26
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1227" height="616" alt="image" src="https://github.com/user-attachments/assets/1b16547e-8ed1-49d6-bb70-93c7171616a0" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1262" height="648" alt="image" src="https://github.com/user-attachments/assets/cb892ea2-75fb-49a8-9e2d-0c5aee1098bd" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1156" height="692" alt="image" src="https://github.com/user-attachments/assets/099e1554-179a-4ab2-9dab-5d92129bcb82" />
 
 
 
@@ -80,10 +83,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
-
-
-
+<img width="1292" height="631" alt="image" src="https://github.com/user-attachments/assets/16f8c508-e091-4281-b6a7-7525d965e184" />
 
 
 # ACTIVITY DIAGRAM:
@@ -98,8 +98,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+<img width="1050" height="678" alt="image" src="https://github.com/user-attachments/assets/4c3800ee-ef8d-4bad-af3d-647384f89aa6" />
 
 
 # SEQUENCE DIAGRAM
@@ -120,8 +119,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
-
+<img width="1280" height="622" alt="image" src="https://github.com/user-attachments/assets/c5b8fbce-0abf-4afa-a6f6-f530946cc593" />
 
 
 # RESULT
